@@ -1,30 +1,11 @@
 <div id="top">
 <h1 align="center">DocFinder Pro 🧑‍⚕️</h1>
-
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/github/repo-size/viveknair6915/DocFinder Pro?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/viveknair6915/DocFinder Pro?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-closed-raw/viveknair6915/DocFinder Pro?style=for-the-badge" />
-    <img src="https://img.shields.io/github/last-commit/viveknair6915/DocFinder Pro?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-pr/viveknair6915/DocFinder Pro?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/viveknair6915/DocFinder Pro?style=for-the-badge" />
-    <img src="https://img.shields.io/github/forks/viveknair6915/DocFinder Pro?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/viveknair6915/DocFinder Pro?style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors-anon/viveknair6915/DocFinder Pro?style=for-the-badge" />
-  </div>
   <br>
 
 <h3>📝 Description :</h3> 
 Welcome to our comprehensive healthcare platform! Our website offers a seamless experience for users and doctors alike. Sign up or log in to unlock a range of features. Easily browse through a list of available doctors, manage your profile, and submit queries effortlessly. Stay updated with notifications and enjoy secure access to your information. Aspiring doctors can apply through our user-friendly system. Book appointments with your preferred doctors and track their completion status. Admin features ensure smooth operations, including approval of doctor applications and user management. Rest assured, all data is stored securely. Join us to experience a new era of convenient and efficient healthcare interactions.
 
 <br/>
-
----
-
-### 🌐 Link:
-
-<h4> Live Site: https://DocFinder Pro.onrender.com/ </h4>
 
 <br>
 
@@ -51,8 +32,8 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vivek-nair-5073b2251)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viveknair6915)
-<a href="mailto:Vivek.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vivekdunna)
+<a href="mailto:Viveknair6915@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/viveknair6915)
 
 </div>
 
@@ -179,15 +160,6 @@ npm start
 ---
 
 <br/>
-
-### 🛡️ License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-Terms and conditions for use, reproduction and distribution are under the [MIT License](https://opensource.org/license/mit/).
-
-<br/>
-
 ---
 
 <h3 align="center"> Give it a 🌟 if you 🧡 this repository </h3>
