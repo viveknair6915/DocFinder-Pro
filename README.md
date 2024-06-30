@@ -157,15 +157,6 @@ npm start
 
 <img src="./client/src/images/notifications.png" alt='notifications'/>
 
----
-
 <br/>
----
-
-<h3 align="center"> Give it a 🌟 if you 🧡 this repository </h3>
-
----
-
 <p align="right"><a href="#top">Back to Top</a></p>
-
 </div>
