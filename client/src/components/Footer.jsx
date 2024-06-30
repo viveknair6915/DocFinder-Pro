@@ -55,7 +55,7 @@ const Footer = () => {
               </li>
               <li className="instagram">
                 <a
-                  href="https://www.instagram.com/"
+                  href="https://www.instagram.com/viveknair_6915"
                   target={"_blank"}
                   rel="noreferrer"
                 >
@@ -68,7 +68,7 @@ const Footer = () => {
         <div className="footer-bottom">
           Made by{" "}
           <a
-            href="https://www.linkedin.com/in/dunna-Vivek"
+            href="https://www.linkedin.com/in/vivek-nair-5073b2251"
             target="_blank"
             rel="noreferrer"
           >
